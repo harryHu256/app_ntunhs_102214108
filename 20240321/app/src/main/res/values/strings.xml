@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="vechicle_bike">腳踏車</string>
+    <string name="vehicle_MRT">大眾捷運</string>
+    <string name="vehicle_moto">機車</string>
+    <string name="vehicle_car">汽車</string>
+    <string name="vehicle">交通工具</string>
+    <string name="female">女</string>
+    <string name="male">男</string>
+    <string name="gneder">性別</string>
+    <string name="birthday">生日</string>
+    <string name="phone_number">聯絡電話</string>
+    <string name="email_address">電子信箱</string>
+    <string name="name">姓名</string>
+    <string name="password">密碼</string>
+    <string name="AccountID">帳號</string>
+    <string name="send">Send</string>
+</resources>
