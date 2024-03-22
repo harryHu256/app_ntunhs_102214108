@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="radBtn_Female" type="id" />
+    <item name="radBtn_Male" type="id" />
+    <item name="radGrpGender" type="id" />
+</resources>
